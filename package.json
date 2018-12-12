@@ -1,0 +1,23 @@
+{
+  "name": "my-first-lib-1",
+  "version": "1.0.0",
+  "description": "Test npm lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basavarajk/my-first-lib.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/basavarajk/my-first-lib/issues"
+  },
+  "homepage": "https://github.com/basavarajk/my-first-lib#readme",
+  "dependencies": {
+    "sillyname": "^0.1.0",
+    "jest": "^22.4.2"
+  }
+}
